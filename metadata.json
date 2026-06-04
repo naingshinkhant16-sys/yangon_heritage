@@ -1,0 +1,6 @@
+{
+  "name": "Yangon Heritage Avatar",
+  "description": "An elegant, culturally inspired interactive landing page and shortcut portal for the Yangon Heritage StoryMap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Myanmar:wght@300;400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', 'Noto Sans Myanmar', 'Pyidaungsu', 'Padauk', sans-serif;
+  --font-burmese: 'Noto Sans Myanmar', 'Pyidaungsu', sans-serif;
+  --color-heritage-red: #8B0000;
+  --color-heritage-gold: #D4AF37;
+  --color-heritage-cream: #FDFBF7;
+  --color-heritage-charcoal: #2B1810;
+}
+
